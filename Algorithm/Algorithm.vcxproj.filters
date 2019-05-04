@@ -36,5 +36,14 @@
     <ClCompile Include="Exam7.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Exam8.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Exam9.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Exam10.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
