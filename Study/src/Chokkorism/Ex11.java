@@ -17,7 +17,7 @@ public class Ex11 {
 
 			d = 2;
 			e = (int) Math.sqrt(b);// 제곱근 구하는 함수
-
+			
 			while (true) {
 
 				if (d > e) {
